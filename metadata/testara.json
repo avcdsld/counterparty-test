@@ -1,0 +1,7 @@
+{
+  "asset": "TESTARA",
+  "description": "This is a description of TESTARA",
+  "image": "https://raw.githubusercontent.com/avcdsld/counterparty-test/main/metadata/testara.png",
+  "website": "https://github.com/avcdsld/counterparty-test",
+  "pgpsig": "https://raw.githubusercontent.com/avcdsld/counterparty-test/main/metadata/testara.pgp"
+}
