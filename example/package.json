@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bitcoinjs-lib": "^6.0.1",
+    "dotenv": "^16.0.1",
+    "ecpair": "^2.0.1",
+    "tiny-secp256k1": "^2.2.1"
+  }
+}
